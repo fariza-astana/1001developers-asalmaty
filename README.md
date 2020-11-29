@@ -1,1 +1,2 @@
-# 1001developers-asalmaty-
+# 1001developers-asalmaty
+Кодовая база курса и домашние задания
