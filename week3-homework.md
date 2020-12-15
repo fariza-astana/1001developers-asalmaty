@@ -1,5 +1,11 @@
 ## Домашнее задание.
 
+
+# Выжимки в colab
+- Домашняя страница https://colab.research.google.com/drive/1Xot_KW3NTqQjTj7NzJKi9jcsO_RPE8R2?usp=sharing
+- Запрос на публичный API https://colab.research.google.com/drive/1WW0vJWd9o0OuDjToRwG3NyeoDTCISNFv?usp=sharing
+- Случайный выбор из листа https://colab.research.google.com/drive/1Ud6hjwmiHDVrhROY-wNAXYfmQKtVMCwo?usp=sharing
+
 ### Установка пакетного менеджера PIP
 
 - убедиться, установлен ли уже PIP, для этого откройте коммантную строку и введите ```python3 -m pip --version``` или ```python -m pip --version```
@@ -21,11 +27,6 @@
 - сделать страницу с советами и выдавать советы из публичного API (https://api.adviceslip.com/advice)
 - собрать личный набор цитат и предлагать произвольно одну из них на каждый запрос.
 - загрузить на сервер Heroku
-
-# Выжимки в colab
-- Домашняя страница https://colab.research.google.com/drive/1Xot_KW3NTqQjTj7NzJKi9jcsO_RPE8R2?usp=sharing
-- Запрос на публичный API https://colab.research.google.com/drive/1WW0vJWd9o0OuDjToRwG3NyeoDTCISNFv?usp=sharing
-- Случайный выбор из листа https://colab.research.google.com/drive/1Ud6hjwmiHDVrhROY-wNAXYfmQKtVMCwo?usp=sharing
 
 
 ### Формат репорта домашнего задания
