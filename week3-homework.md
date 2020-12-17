@@ -5,6 +5,7 @@
 - Домашняя страница https://colab.research.google.com/drive/1Xot_KW3NTqQjTj7NzJKi9jcsO_RPE8R2?usp=sharing
 - Запрос на публичный API https://colab.research.google.com/drive/1WW0vJWd9o0OuDjToRwG3NyeoDTCISNFv?usp=sharing
 - Случайный выбор из листа https://colab.research.google.com/drive/1Ud6hjwmiHDVrhROY-wNAXYfmQKtVMCwo?usp=sharing
+- Пример использования шаблонов https://colab.research.google.com/drive/105a2zpxK5FGEDvDKzABzOoV3_Sw47Q-h?usp=sharing
 
 ### Установка пакетного менеджера PIP
 
