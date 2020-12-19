@@ -2,3 +2,5 @@ fastapi
 requests
 gunicorn
 uvicorn
+jinja2
+aiofiles
